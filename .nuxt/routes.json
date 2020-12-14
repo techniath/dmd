@@ -1,0 +1,555 @@
+[
+  {
+    "name": "about-us-01",
+    "path": "/about-us-01",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\about-us-01.vue",
+    "chunkName": "pages/about-us-01",
+    "_name": "_69866fa0"
+  },
+  {
+    "name": "about-us-03",
+    "path": "/about-us-03",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\about-us-03.vue",
+    "chunkName": "pages/about-us-03",
+    "_name": "_694e119c"
+  },
+  {
+    "name": "about-us-04",
+    "path": "/about-us-04",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\about-us-04.vue",
+    "chunkName": "pages/about-us-04",
+    "_name": "_6931e29a"
+  },
+  {
+    "name": "career",
+    "path": "/career",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\career.vue",
+    "chunkName": "pages/career",
+    "_name": "_ec386464"
+  },
+  {
+    "name": "contact-us-modern",
+    "path": "/contact-us-modern",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\contact-us-modern.vue",
+    "chunkName": "pages/contact-us-modern",
+    "_name": "_958ac7be"
+  },
+  {
+    "name": "contact-us-with-map",
+    "path": "/contact-us-with-map",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\contact-us-with-map.vue",
+    "chunkName": "pages/contact-us-with-map",
+    "_name": "_43f80b57"
+  },
+  {
+    "name": "home-authentic-studio",
+    "path": "/home-authentic-studio",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-authentic-studio.vue",
+    "chunkName": "pages/home-authentic-studio",
+    "_name": "_4cc42114"
+  },
+  {
+    "name": "home-blog-grid",
+    "path": "/home-blog-grid",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-blog-grid.vue",
+    "chunkName": "pages/home-blog-grid",
+    "_name": "_a5ca9a1a"
+  },
+  {
+    "name": "home-corona",
+    "path": "/home-corona",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-corona.vue",
+    "chunkName": "pages/home-corona",
+    "_name": "_6a7f9cac"
+  },
+  {
+    "name": "home-creative-agency",
+    "path": "/home-creative-agency",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-creative-agency.vue",
+    "chunkName": "pages/home-creative-agency",
+    "_name": "_e7276876"
+  },
+  {
+    "name": "home-creative-portfolio",
+    "path": "/home-creative-portfolio",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-creative-portfolio.vue",
+    "chunkName": "pages/home-creative-portfolio",
+    "_name": "_163ecb38"
+  },
+  {
+    "name": "home-design-studio",
+    "path": "/home-design-studio",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-design-studio.vue",
+    "chunkName": "pages/home-design-studio",
+    "_name": "_086a5bb2"
+  },
+  {
+    "name": "home-digital-agency",
+    "path": "/home-digital-agency",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-digital-agency.vue",
+    "chunkName": "pages/home-digital-agency",
+    "_name": "_4c3fba30"
+  },
+  {
+    "name": "home-essential",
+    "path": "/home-essential",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-essential.vue",
+    "chunkName": "pages/home-essential",
+    "_name": "_1c008d30"
+  },
+  {
+    "name": "home-freelancer",
+    "path": "/home-freelancer",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-freelancer.vue",
+    "chunkName": "pages/home-freelancer",
+    "_name": "_6aeba591"
+  },
+  {
+    "name": "home-fullscreen-slider-left-vertical-header",
+    "path": "/home-fullscreen-slider-left-vertical-header",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-fullscreen-slider-left-vertical-header.vue",
+    "chunkName": "pages/home-fullscreen-slider-left-vertical-header",
+    "_name": "_322b31e6"
+  },
+  {
+    "name": "home-indie-musician",
+    "path": "/home-indie-musician",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-indie-musician.vue",
+    "chunkName": "pages/home-indie-musician",
+    "_name": "_5229af71"
+  },
+  {
+    "name": "home-landing",
+    "path": "/home-landing",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-landing.vue",
+    "chunkName": "pages/home-landing",
+    "_name": "_93805c0e"
+  },
+  {
+    "name": "home-masonry-gallery",
+    "path": "/home-masonry-gallery",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-masonry-gallery.vue",
+    "chunkName": "pages/home-masonry-gallery",
+    "_name": "_22673fa8"
+  },
+  {
+    "name": "home-minimal-agency",
+    "path": "/home-minimal-agency",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-minimal-agency.vue",
+    "chunkName": "pages/home-minimal-agency",
+    "_name": "_7e24b882"
+  },
+  {
+    "name": "home-minimal-metro-grid",
+    "path": "/home-minimal-metro-grid",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-minimal-metro-grid.vue",
+    "chunkName": "pages/home-minimal-metro-grid",
+    "_name": "_a3092898"
+  },
+  {
+    "name": "home-minimal-portfolio",
+    "path": "/home-minimal-portfolio",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-minimal-portfolio.vue",
+    "chunkName": "pages/home-minimal-portfolio",
+    "_name": "_2e1bb8fe"
+  },
+  {
+    "name": "home-onepage",
+    "path": "/home-onepage",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-onepage.vue",
+    "chunkName": "pages/home-onepage",
+    "_name": "_5ce23252"
+  },
+  {
+    "name": "home-photo-slider-gallery",
+    "path": "/home-photo-slider-gallery",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-photo-slider-gallery.vue",
+    "chunkName": "pages/home-photo-slider-gallery",
+    "_name": "_4bd9d0ef"
+  },
+  {
+    "name": "home-portfolio-slide",
+    "path": "/home-portfolio-slide",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-portfolio-slide.vue",
+    "chunkName": "pages/home-portfolio-slide",
+    "_name": "_3c30fc4e"
+  },
+  {
+    "name": "home-product-landing",
+    "path": "/home-product-landing",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-product-landing.vue",
+    "chunkName": "pages/home-product-landing",
+    "_name": "_c07f4fca"
+  },
+  {
+    "name": "home-restaurant",
+    "path": "/home-restaurant",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-restaurant.vue",
+    "chunkName": "pages/home-restaurant",
+    "_name": "_6528224b"
+  },
+  {
+    "name": "home-service",
+    "path": "/home-service",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-service.vue",
+    "chunkName": "pages/home-service",
+    "_name": "_25abdf97"
+  },
+  {
+    "name": "home-start-up",
+    "path": "/home-start-up",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-start-up.vue",
+    "chunkName": "pages/home-start-up",
+    "_name": "_2c2f9ff4"
+  },
+  {
+    "name": "home-vertical-menu",
+    "path": "/home-vertical-menu",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\home-vertical-menu.vue",
+    "chunkName": "pages/home-vertical-menu",
+    "_name": "_0a04ab90"
+  },
+  {
+    "name": "pricing-plans",
+    "path": "/pricing-plans",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\pricing-plans.vue",
+    "chunkName": "pages/pricing-plans",
+    "_name": "_082a4903"
+  },
+  {
+    "name": "services-classic",
+    "path": "/services-classic",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\services-classic.vue",
+    "chunkName": "pages/services-classic",
+    "_name": "_5348581a"
+  },
+  {
+    "name": "services-list",
+    "path": "/services-list",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\services-list.vue",
+    "chunkName": "pages/services-list",
+    "_name": "_bd1641e6"
+  },
+  {
+    "name": "services-modern",
+    "path": "/services-modern",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\services-modern.vue",
+    "chunkName": "pages/services-modern",
+    "_name": "_6d31d164"
+  },
+  {
+    "name": "team-carousel-01",
+    "path": "/team-carousel-01",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\team-carousel-01.vue",
+    "chunkName": "pages/team-carousel-01",
+    "_name": "_46fe726e"
+  },
+  {
+    "name": "team-carousel-02",
+    "path": "/team-carousel-02",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\team-carousel-02.vue",
+    "chunkName": "pages/team-carousel-02",
+    "_name": "_470c89ef"
+  },
+  {
+    "name": "team-grid",
+    "path": "/team-grid",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\team-grid.vue",
+    "chunkName": "pages/team-grid",
+    "_name": "_29ad2696"
+  },
+  {
+    "name": "blog-blog-creative",
+    "path": "/blog/blog-creative",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\blog-creative.vue",
+    "chunkName": "pages/blog/blog-creative",
+    "_name": "_587d7610"
+  },
+  {
+    "name": "blog-blog-details",
+    "path": "/blog/blog-details",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\blog-details.vue",
+    "chunkName": "pages/blog/blog-details",
+    "_name": "_79ae9789"
+  },
+  {
+    "name": "blog-blog-details-modern-layout",
+    "path": "/blog/blog-details-modern-layout",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\blog-details-modern-layout.vue",
+    "chunkName": "pages/blog/blog-details-modern-layout",
+    "_name": "_1722dad4"
+  },
+  {
+    "name": "blog-blog-grid-classic",
+    "path": "/blog/blog-grid-classic",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\blog-grid-classic.vue",
+    "chunkName": "pages/blog/blog-grid-classic",
+    "_name": "_fd497058"
+  },
+  {
+    "name": "blog-blog-grid-classic-sidebar",
+    "path": "/blog/blog-grid-classic-sidebar",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\blog-grid-classic-sidebar.vue",
+    "chunkName": "pages/blog/blog-grid-classic-sidebar",
+    "_name": "_58d14a3a"
+  },
+  {
+    "name": "blog-blog-grid-mesonry",
+    "path": "/blog/blog-grid-mesonry",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\blog-grid-mesonry.vue",
+    "chunkName": "pages/blog/blog-grid-mesonry",
+    "_name": "_79a5c083"
+  },
+  {
+    "name": "blog-blog-grid-minimal",
+    "path": "/blog/blog-grid-minimal",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\blog-grid-minimal.vue",
+    "chunkName": "pages/blog/blog-grid-minimal",
+    "_name": "_b8e3053a"
+  },
+  {
+    "name": "blog-blog-grid-minimal-outline",
+    "path": "/blog/blog-grid-minimal-outline",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\blog-grid-minimal-outline.vue",
+    "chunkName": "pages/blog/blog-grid-minimal-outline",
+    "_name": "_59dea950"
+  },
+  {
+    "name": "blog-blog-grid-modern",
+    "path": "/blog/blog-grid-modern",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\blog-grid-modern.vue",
+    "chunkName": "pages/blog/blog-grid-modern",
+    "_name": "_72adb966"
+  },
+  {
+    "name": "blog-blog-grid-simple",
+    "path": "/blog/blog-grid-simple",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\blog-grid-simple.vue",
+    "chunkName": "pages/blog/blog-grid-simple",
+    "_name": "_2e4b2f40"
+  },
+  {
+    "name": "blog-blog-grid-standard",
+    "path": "/blog/blog-grid-standard",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\blog-grid-standard.vue",
+    "chunkName": "pages/blog/blog-grid-standard",
+    "_name": "_4604ea6b"
+  },
+  {
+    "name": "blog-blog-standard-list",
+    "path": "/blog/blog-standard-list",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\blog-standard-list.vue",
+    "chunkName": "pages/blog/blog-standard-list",
+    "_name": "_7f1ab1b5"
+  },
+  {
+    "name": "element-accordion",
+    "path": "/element/accordion",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\accordion.vue",
+    "chunkName": "pages/element/accordion",
+    "_name": "_15331ec8"
+  },
+  {
+    "name": "element-brand-logo",
+    "path": "/element/brand-logo",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\brand-logo.vue",
+    "chunkName": "pages/element/brand-logo",
+    "_name": "_31d0b5e6"
+  },
+  {
+    "name": "element-call-to-action-banner",
+    "path": "/element/call-to-action-banner",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\call-to-action-banner.vue",
+    "chunkName": "pages/element/call-to-action-banner",
+    "_name": "_3117b098"
+  },
+  {
+    "name": "element-carousel-slider",
+    "path": "/element/carousel-slider",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\carousel-slider.vue",
+    "chunkName": "pages/element/carousel-slider",
+    "_name": "_2bf8bd7c"
+  },
+  {
+    "name": "element-contact-subscribe",
+    "path": "/element/contact-subscribe",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\contact-subscribe.vue",
+    "chunkName": "pages/element/contact-subscribe",
+    "_name": "_397318b1"
+  },
+  {
+    "name": "element-dividers",
+    "path": "/element/dividers",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\dividers.vue",
+    "chunkName": "pages/element/dividers",
+    "_name": "_2cd6d1d6"
+  },
+  {
+    "name": "element-flexible-image-slider",
+    "path": "/element/flexible-image-slider",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\flexible-image-slider.vue",
+    "chunkName": "pages/element/flexible-image-slider",
+    "_name": "_0d16f9ae"
+  },
+  {
+    "name": "element-gradation",
+    "path": "/element/gradation",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\gradation.vue",
+    "chunkName": "pages/element/gradation",
+    "_name": "_0711158a"
+  },
+  {
+    "name": "element-icon-boxes",
+    "path": "/element/icon-boxes",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\icon-boxes.vue",
+    "chunkName": "pages/element/icon-boxes",
+    "_name": "_65c06f7e"
+  },
+  {
+    "name": "element-instagram",
+    "path": "/element/instagram",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\instagram.vue",
+    "chunkName": "pages/element/instagram",
+    "_name": "_15cd23f4"
+  },
+  {
+    "name": "element-lists",
+    "path": "/element/lists",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\lists.vue",
+    "chunkName": "pages/element/lists",
+    "_name": "_0ce0de69"
+  },
+  {
+    "name": "element-message-box",
+    "path": "/element/message-box",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\message-box.vue",
+    "chunkName": "pages/element/message-box",
+    "_name": "_0b31dcd9"
+  },
+  {
+    "name": "element-pricing-box",
+    "path": "/element/pricing-box",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\pricing-box.vue",
+    "chunkName": "pages/element/pricing-box",
+    "_name": "_427f4d98"
+  },
+  {
+    "name": "element-tab",
+    "path": "/element/tab",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\tab.vue",
+    "chunkName": "pages/element/tab",
+    "_name": "_325e8d2e"
+  },
+  {
+    "name": "element-team",
+    "path": "/element/team",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\team.vue",
+    "chunkName": "pages/element/team",
+    "_name": "_6efcc78e"
+  },
+  {
+    "name": "element-testimonial",
+    "path": "/element/testimonial",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\element\\\\testimonial.vue",
+    "chunkName": "pages/element/testimonial",
+    "_name": "_6d590d73"
+  },
+  {
+    "name": "portfolio-portfolio-ajax-filter",
+    "path": "/portfolio/portfolio-ajax-filter",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\portfolio\\\\portfolio-ajax-filter.vue",
+    "chunkName": "pages/portfolio/portfolio-ajax-filter",
+    "_name": "_5d21fc48"
+  },
+  {
+    "name": "portfolio-portfolio-details",
+    "path": "/portfolio/portfolio-details",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\portfolio\\\\portfolio-details.vue",
+    "chunkName": "pages/portfolio/portfolio-details",
+    "_name": "_64611476"
+  },
+  {
+    "name": "portfolio-portfolio-details-image-with-caption",
+    "path": "/portfolio/portfolio-details-image-with-caption",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\portfolio\\\\portfolio-details-image-with-caption.vue",
+    "chunkName": "pages/portfolio/portfolio-details-image-with-caption",
+    "_name": "_5e06e56e"
+  },
+  {
+    "name": "portfolio-portfolio-details-left-wide",
+    "path": "/portfolio/portfolio-details-left-wide",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\portfolio\\\\portfolio-details-left-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-details-left-wide",
+    "_name": "_f57eca5e"
+  },
+  {
+    "name": "portfolio-portfolio-details-right",
+    "path": "/portfolio/portfolio-details-right",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\portfolio\\\\portfolio-details-right.vue",
+    "chunkName": "pages/portfolio/portfolio-details-right",
+    "_name": "_3ab852d8"
+  },
+  {
+    "name": "portfolio-portfolio-details-right-wide",
+    "path": "/portfolio/portfolio-details-right-wide",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\portfolio\\\\portfolio-details-right-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-details-right-wide",
+    "_name": "_5cbb86c8"
+  },
+  {
+    "name": "portfolio-portfolio-grid-boxed",
+    "path": "/portfolio/portfolio-grid-boxed",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\portfolio\\\\portfolio-grid-boxed.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-boxed",
+    "_name": "_0ec311b0"
+  },
+  {
+    "name": "portfolio-portfolio-grid-filter",
+    "path": "/portfolio/portfolio-grid-filter",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\portfolio\\\\portfolio-grid-filter.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-filter",
+    "_name": "_616c0f62"
+  },
+  {
+    "name": "portfolio-portfolio-grid-metro-01",
+    "path": "/portfolio/portfolio-grid-metro-01",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\portfolio\\\\portfolio-grid-metro-01.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-metro-01",
+    "_name": "_42275fc2"
+  },
+  {
+    "name": "portfolio-portfolio-grid-metro-03",
+    "path": "/portfolio/portfolio-grid-metro-03",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\portfolio\\\\portfolio-grid-metro-03.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-metro-03",
+    "_name": "_41ef01be"
+  },
+  {
+    "name": "portfolio-portfolio-grid-wide",
+    "path": "/portfolio/portfolio-grid-wide",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\portfolio\\\\portfolio-grid-wide.vue",
+    "chunkName": "pages/portfolio/portfolio-grid-wide",
+    "_name": "_3f1af9bd"
+  },
+  {
+    "name": "portfolio-portfolio-with-caption",
+    "path": "/portfolio/portfolio-with-caption",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\portfolio\\\\portfolio-with-caption.vue",
+    "chunkName": "pages/portfolio/portfolio-with-caption",
+    "_name": "_25ef2828"
+  },
+  {
+    "name": "blog-id",
+    "path": "/blog/:id?",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\blog\\\\_id.vue",
+    "chunkName": "pages/blog/_id",
+    "_name": "_4c2f3690"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Faizan\\\\themeforest-tOKZ4VrN-brook-creative-multipurpose-vue-nuxt-js-template\\\\brook\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_90ee2e9c"
+  }
+]
