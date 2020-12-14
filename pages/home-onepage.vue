@@ -137,7 +137,7 @@
             HeroOnepage: () => import('@/components/HeroOnepage'),
             MusicianIconBox: () => import('@/components/MusicianIconBox'),
             MusicianPortfolioGallery: () => import('@/components/MusicianPortfolioGallery'),
-            OnepageTeamMember: () => import('@/components/OnepageTeamMember'),
+            OnepageTeamMember: () => import('@/components/OnepageTeammember'),
             TestimonialSix: () => import('@/components/TestimonialSix'),
             MusicianCounterup: () => import('@/components/MusicianCounterup'),
             BlogPostThree: () => import('@/components/BlogPostThree'),
